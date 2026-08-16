@@ -6,31 +6,7 @@ A tiny ASP.NET Core Bank API built to understand what actually happens when a re
 
 ## Read the article
 
-**📖 Medium:** *From `dotnet run` to SQL*  
-**Link:** TBA
-
-## What's inside
-
-- ASP.NET Core Web API
-- Controller-based routing
-- Custom middleware experiments
-- Dependency Injection (Transient, Scoped, Singleton)
-- EF Core + Npgsql
-- PostgreSQL with Docker
-- EF Core migrations
-
-## Project structure
-
-```text
-Bank.Api/
-├── Controllers/
-├── Data/
-├── Middleware/
-├── Migrations/
-├── Services/
-├── Program.cs
-├── appsettings.json
-```
+**📖 Medium Link:** [*From `dotnet run` to SQL*](https://medium.com/@prenitharajesh/from-dotnet-run-to-sql-a13961217a5b)  
 
 ## Run it locally
 
